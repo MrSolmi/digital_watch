@@ -13,82 +13,82 @@
         <!--clock_content_here-->
             <!--num-->
                 <!--num_off-->
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="166,81,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="166,136,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="166,191,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="156,91,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="211,91,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="156,146,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="211,146,0,0"/>
+                    <Image x:Name="watch_part_1_1_off" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="166,81,0,0"/>
+                    <Image x:Name="watch_part_1_2_off" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="166,136,0,0"/>
+                    <Image x:Name="watch_part_1_3_off" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="166,191,0,0"/>
+                    <Image x:Name="watch_part_1_4_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="156,91,0,0"/>
+                    <Image x:Name="watch_part_1_5_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="211,91,0,0"/>
+                    <Image x:Name="watch_part_1_6_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="156,146,0,0"/>
+                    <Image x:Name="watch_part_1_7_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="211,146,0,0"/>
                 <!--num_off_end-->
                 <!--num_off-->
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="247,81,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="247,136,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="247,191,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="237,91,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="292,91,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="237,146,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="292,146,0,0"/>
+                    <Image x:Name="watch_part_2_1_off" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="247,81,0,0"/>
+                    <Image x:Name="watch_part_2_2_off" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="247,136,0,0"/>
+                    <Image x:Name="watch_part_2_3_off" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="247,191,0,0"/>
+                    <Image x:Name="watch_part_2_4_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="237,91,0,0"/>
+                    <Image x:Name="watch_part_2_5_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="292,91,0,0"/>
+                    <Image x:Name="watch_part_2_6_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="237,146,0,0"/>
+                    <Image x:Name="watch_part_2_7_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="292,146,0,0"/>
                 <!--num_off_end-->
                 <!--num_off-->
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="348,81,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="348,136,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="348,191,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="338,91,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="393,91,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="338,146,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="393,146,0,0"/>
+                    <Image x:Name="watch_part_3_1_off" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="348,81,0,0"/>
+                    <Image x:Name="watch_part_3_2_off" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="348,136,0,0"/>
+                    <Image x:Name="watch_part_3_3_off" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="348,191,0,0"/>
+                    <Image x:Name="watch_part_3_4_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="338,91,0,0"/>
+                    <Image x:Name="watch_part_3_5_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="393,91,0,0"/>
+                    <Image x:Name="watch_part_3_6_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="338,146,0,0"/>
+                    <Image x:Name="watch_part_3_7_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="393,146,0,0"/>
                 <!--num_off_end-->
                 <!--num_off-->
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="429,81,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="429,136,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="429,191,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="419,91,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="474,91,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="419,146,0,0"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="474,146,0,0"/>
+                    <Image x:Name="watch_part_4_1_off" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="429,81,0,0"/>
+                    <Image x:Name="watch_part_4_2_off" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="429,136,0,0"/>
+                    <Image x:Name="watch_part_4_3_off" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_off.png" Stretch="None" Margin="429,191,0,0"/>
+                    <Image x:Name="watch_part_4_4_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="419,91,0,0"/>
+                    <Image x:Name="watch_part_4_5_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="474,91,0,0"/>
+                    <Image x:Name="watch_part_4_6_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="419,146,0,0"/>
+                    <Image x:Name="watch_part_4_7_off" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_off.png" Stretch="None" Margin="474,146,0,0"/>
                 <!--num_off_end-->
             <!--num_end-->
 
             <!--num-->
                 <!--num_off-->
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="166,81,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="166,136,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="166,191,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="156,91,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="211,91,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="156,146,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="211,146,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_1_1_on" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="166,81,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_1_2_on" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="166,136,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_1_3_on" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="166,191,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_1_4_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="156,91,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_1_5_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="211,91,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_1_6_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="156,146,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_1_7_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="211,146,0,0" Visibility="Hidden"/>
                 <!--num_off_end-->
                 <!--num_off-->
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="247,81,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="247,136,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="247,191,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="237,91,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="292,91,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="237,146,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="292,146,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_2_1_on" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="247,81,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_2_2_on" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="247,136,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_2_3_on" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="247,191,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_2_4_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="237,91,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_2_5_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="292,91,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_2_6_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="237,146,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_2_7_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="292,146,0,0" Visibility="Hidden"/>
                 <!--num_off_end-->
                 <!--num_off-->
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="348,81,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="348,136,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="348,191,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="338,91,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="393,91,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="338,146,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="393,146,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_3_1_on" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="348,81,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_3_2_on" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="348,136,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_3_3_on" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="348,191,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_3_4_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="338,91,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_3_5_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="393,91,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_3_6_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="338,146,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_3_7_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="393,146,0,0" Visibility="Hidden"/>
                 <!--num_off_end-->
                 <!--num_off-->
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="429,81,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="429,136,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="429,191,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="419,91,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="474,91,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="419,146,0,0" Visibility="Hidden"/>
-                    <Image HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="474,146,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_4_1_on" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="429,81,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_4_2_on" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="429,136,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_4_3_on" HorizontalAlignment="Left" Height="15" VerticalAlignment="Top" Width="51" Source="img/watch_part_horisontal_on.png" Stretch="None" Margin="429,191,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_4_4_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="419,91,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_4_5_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="474,91,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_4_6_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="419,146,0,0" Visibility="Hidden"/>
+                    <Image x:Name="watch_part_4_7_on" HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="15" Source="img/watch_part_vertical_on.png" Stretch="None" Margin="474,146,0,0" Visibility="Hidden"/>
                 <!--num_off_end-->
             <!--num_end-->
         <!--clock_content_here_end-->
-        <!--<Image HorizontalAlignment="Left" Height="320" VerticalAlignment="Top" Width="709" Source="img/watch_glass.png" Stretch="None" Margin="-38,0,0,-14"/>-->
+        <Image HorizontalAlignment="Left" Height="320" VerticalAlignment="Top" Width="709" Source="img/watch_glass.png" Stretch="None" Margin="-38,0,0,-14"/>
     </Grid>
 </Window>

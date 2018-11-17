@@ -1,0 +1,15 @@
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\bin\Debug\digital_watch_wpf.exe.config
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\bin\Debug\digital_watch_wpf.exe
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\bin\Debug\digital_watch_wpf.pdb
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\obj\Debug\digital_watch_wpf.csprojAssemblyReference.cache
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\obj\Debug\MainWindow.g.cs
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\obj\Debug\App.g.cs
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\obj\Debug\digital_watch_wpf_MarkupCompile.cache
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\obj\Debug\digital_watch_wpf_MarkupCompile.lref
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\obj\Debug\MainWindow.baml
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\obj\Debug\digital_watch_wpf.g.resources
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\obj\Debug\digital_watch_wpf.Properties.Resources.resources
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\obj\Debug\digital_watch_wpf.csproj.GenerateResource.cache
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\obj\Debug\digital_watch_wpf.csproj.CoreCompileInputs.cache
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\obj\Debug\digital_watch_wpf.exe
+F:\projects\digital_watch\digital_watch_wpf\digital_watch_wpf\obj\Debug\digital_watch_wpf.pdb

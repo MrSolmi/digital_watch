@@ -11,6 +11,9 @@ namespace digital_watch_wpf
     class Watch
     {
         string currentTime;
+        int currentH = 23;
+        int currentM = 59;
+        int currentS = 40;
         List<Num> numInBoard = new List<Num>();
 
         public Watch ()
@@ -19,11 +22,38 @@ namespace digital_watch_wpf
             numInBoard.Add(new Num());
             numInBoard.Add(new Num());
             numInBoard.Add(new Num());
+            numInBoard.Add(new Num());
+            numInBoard.Add(new Num());
         }
 
         string ReturnTime()
         {
-            return String.Format("{0}{1}", DateTime.Now.ToString().Substring(11, 2), DateTime.Now.ToString().Substring(14, 2));
+            string returnString = "";
+
+            currentS++;
+            if (currentS == 60)
+            {
+                currentS = 0;
+                currentM++;
+                if (currentM == 60)
+                {
+                    currentM = 0;
+                    currentH++;
+                    if (currentH == 24)
+                    {
+                        currentH = 0;
+                    }
+                }
+            }
+
+            if (currentH.ToString().Length == 1) returnString += "0" + currentH.ToString();
+            else returnString += currentH.ToString();
+            if (currentM.ToString().Length == 1) returnString += "0" + currentM.ToString();
+            else returnString += currentM.ToString();
+            if (currentS.ToString().Length == 1) returnString += "0" + currentS.ToString();
+            else returnString += currentS.ToString();
+
+            return returnString;
         }
 
         public List<Num> CheckTime()
@@ -32,7 +62,7 @@ namespace digital_watch_wpf
 
             for (int numPlace = 0; numPlace < numInBoard.Count; numPlace++)
             {
-                numInBoard[numPlace].CurrentNum = ReturnTime()[numPlace] - '0';
+                numInBoard[numPlace].CurrentNum = currentTime[numPlace] - '0';
             }
 
             return numInBoard;
